@@ -1,5 +1,5 @@
 # voice_recognition
 
-### Only works on chrome
+### Solo funciona en chrome
 
-### Try commands for example "Abrir Youtube"
+### Prueba por ejemplo: "Abrir Youtube"
